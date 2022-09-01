@@ -10,9 +10,8 @@ const AllCources = () => {
       title: "Learn Python: The Complete Python Programming Course",
       author: "Avinash Jain,The Codex",
       image: "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
-      price: "679.99",
-      rating: 4.4,
-      people: "2,948",
+      rating: 4.5,
+      number: "21,948",
     },
     {
       id: 2,
@@ -20,9 +19,8 @@ const AllCources = () => {
       title: "Learning Python for Data Analysis and Visualization",
       author: "Jose Portilla",
       image: "https://img-c.udemycdn.com/course/240x135/396876_cc92_7.jpg",
-      price: "1,599.99",
-      rating: 4.4,
-      people: "17,999",
+      rating: 4.6,
+      number: "17,999",
     },
     {
       id: 3,
@@ -30,9 +28,8 @@ const AllCources = () => {
       title: "Python for Beginners - Learn Programming from scratch",
       author: "Edwin Diaz, Coding FAcutly Solutaions",
       image: "https://img-c.udemycdn.com/course/240x135/405878_e5a0_3.jpg",
-      price: "679.99",
-      rating: 4.4,
-      people: "1,781",
+      rating: 4.7,
+      number: "12,781",
     },
     {
       id: 4,
@@ -40,9 +37,8 @@ const AllCources = () => {
       title: "Python Beyond the Basics - Object-Oriented Programming",
       author: "Infinite Skills",
       image: "https://img-c.udemycdn.com/course/480x270/449532_2aa9_7.jpg",
-      price: "519.99",
-      rating: 4.4,
-      people: "2,930",
+      rating: 4.8,
+      number: "24,930",
     },
   ];
 

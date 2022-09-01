@@ -18,7 +18,7 @@ const Course = (props) => {
         <span class="fas fa-star-half-alt checked"></span>
       </div>
 
-      <h5>E£  {props.course.people}</h5>
+      <h5>E£  {props.course.number}</h5>
     </a>
   </article>
   );
